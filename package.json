@@ -1,19 +1,20 @@
 {
   "name": "frisby",
-  "version": "0.8.4",
-  "description": "Frisby.js: REST API Endpoint Testing built on Jasmine",
+  "version": "0.8.6",
+  "description": "Built Fork Frisby.js: REST API Endpoint Testing built on Jasmine",
   "homepage": "http://frisbyjs.com",
-  "author": "Vance Lucas <vance@vancelucas.com>",
+  "author": "Dustin Pate <dustin.pate@getbuilt.com>",
   "license": {
     "type": "BSD"
   },
   "contributors": [
     "Eric Boehs <ericboehs@gmail.com>",
-    "Kevin Morey"
+    "Kevin Morey",
+    "Vance Lucas <vance@vancelucas.com>"
   ],
   "repository": {
     "type": "git",
-    "url": "http://github.com/vlucas/frisby"
+    "url": "http://github.com/noirsoldats/frisby"
   },
   "keywords": [
     "testing",
