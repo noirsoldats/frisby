@@ -14,7 +14,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "http://github.com/noirsoldats/frisby"
+    "url": "https://github.com/noirsoldats/frisby.git"
   },
   "keywords": [
     "testing",
@@ -46,5 +46,11 @@
   },
   "scripts": {
     "test": "minijasminenode2 spec/*.js"
+  },
+  "bugs": {
+    "url": "https://github.com/noirsoldats/frisby/issues"
+  },
+  "directories": {
+    "example": "examples"
   }
 }
