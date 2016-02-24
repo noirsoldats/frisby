@@ -1,5 +1,5 @@
 {
-  "name": "frisby",
+  "name": "@built/frisby",
   "version": "0.8.6",
   "description": "Built Fork Frisby.js: REST API Endpoint Testing built on Jasmine",
   "homepage": "http://frisbyjs.com",
